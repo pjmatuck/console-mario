@@ -1,0 +1,14 @@
+c:\Users\pjmat\Projects\csharp\console-mario\bin\Debug\net9.0\console-mario.exe
+c:\Users\pjmat\Projects\csharp\console-mario\bin\Debug\net9.0\console-mario.deps.json
+c:\Users\pjmat\Projects\csharp\console-mario\bin\Debug\net9.0\console-mario.runtimeconfig.json
+c:\Users\pjmat\Projects\csharp\console-mario\bin\Debug\net9.0\console-mario.dll
+c:\Users\pjmat\Projects\csharp\console-mario\bin\Debug\net9.0\console-mario.pdb
+c:\Users\pjmat\Projects\csharp\console-mario\obj\Debug\net9.0\console-mario.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pjmat\Projects\csharp\console-mario\obj\Debug\net9.0\console-mario.AssemblyInfoInputs.cache
+c:\Users\pjmat\Projects\csharp\console-mario\obj\Debug\net9.0\console-mario.AssemblyInfo.cs
+c:\Users\pjmat\Projects\csharp\console-mario\obj\Debug\net9.0\console-mario.csproj.CoreCompileInputs.cache
+c:\Users\pjmat\Projects\csharp\console-mario\obj\Debug\net9.0\console-mario.dll
+c:\Users\pjmat\Projects\csharp\console-mario\obj\Debug\net9.0\refint\console-mario.dll
+c:\Users\pjmat\Projects\csharp\console-mario\obj\Debug\net9.0\console-mario.pdb
+c:\Users\pjmat\Projects\csharp\console-mario\obj\Debug\net9.0\console-mario.genruntimeconfig.cache
+c:\Users\pjmat\Projects\csharp\console-mario\obj\Debug\net9.0\ref\console-mario.dll
