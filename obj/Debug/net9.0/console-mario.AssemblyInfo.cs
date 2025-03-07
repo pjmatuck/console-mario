@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("console-mario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+793fd1ace9bf7965cee4cca11950ab7c88236e42")]
 [assembly: System.Reflection.AssemblyProductAttribute("console-mario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("console-mario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

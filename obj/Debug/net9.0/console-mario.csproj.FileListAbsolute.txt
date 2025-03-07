@@ -12,3 +12,4 @@ c:\Users\pjmat\Projects\csharp\console-mario\obj\Debug\net9.0\refint\console-mar
 c:\Users\pjmat\Projects\csharp\console-mario\obj\Debug\net9.0\console-mario.pdb
 c:\Users\pjmat\Projects\csharp\console-mario\obj\Debug\net9.0\console-mario.genruntimeconfig.cache
 c:\Users\pjmat\Projects\csharp\console-mario\obj\Debug\net9.0\ref\console-mario.dll
+C:\Users\pjmat\Projects\csharp\console-mario\obj\Debug\net9.0\console-mario.sourcelink.json
